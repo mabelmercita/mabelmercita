@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mabelmercita
+- Hello! I'm @mabelmercita 👋
+-🌟 BE CSE Student at Loyola ICAM, BSc Data Science at IITM, and a passionate tech enthusiast.
 
 
 <!---
